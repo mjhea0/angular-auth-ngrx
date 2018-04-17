@@ -2,7 +2,7 @@
 
 ## Want to learn how to build this project?
 
-Check out the [blog post]().
+Check out the [blog post](http://mherman.org/blog/2018/04/17/authentication-in-angular-with-ngrx/).
 
 ## Want to use this project?
 
